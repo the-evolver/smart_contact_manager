@@ -1,5 +1,7 @@
 # smart_contact_manager
-Smart way of managing contacts 
+Smart way of managing contacts</n>
+
+
 Language of Implementation: Java 
 Operating System: macOS
 Back end: JAVA
