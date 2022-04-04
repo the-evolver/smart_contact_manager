@@ -2,10 +2,10 @@
 Smart way of managing contacts</n>
 
 
-Language of Implementation: Java </n>
+Language of Implementation: Java</n>
 Operating System: macOS</n>
 Back end: JAVA</n>
-Front end:JS, HTML ,CSS ,JS</n>
+Front end:JS, HTML ,CSS.
 Role: Development</n>
 DESCRIPTION:</n>
 * Enhanced user privacy better than normal contact managers
