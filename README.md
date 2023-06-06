@@ -7,7 +7,8 @@ Operating System: macOS<br />
 Back end: JAVA<br />
 Front end:JS, HTML ,CSS.<br />
 Role: Development<br />
-DESCRIPTION:
+<br />
+<b>DESCRIPTION:</b>
 The Smart Contact Manager is an innovative web-based application designed to provide a smart and secure way of managing contacts. Developed using Java, JavaScript, HTML, and CSS, this application offers enhanced user privacy and ensures that contacts are easily accessible even if the user's personal device is lost, stolen, or hacked. By hosting the application on the web, data loss concerns are mitigated.
 
 Key Features:
