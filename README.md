@@ -4,7 +4,7 @@ Smart way of managing contacts<br />
 
 Language of Implementation: Java<br />
 Operating System: macOS<br />
-Back end: JAVA<br />
+Back end: JAVA, Spring boot<br />
 Front end:JS, HTML ,CSS.<br />
 Role: Development<br />
 <br />
